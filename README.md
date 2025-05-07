@@ -1,6 +1,6 @@
 <pre>
-（佛祖保佑區塊）
-  //                          _ooOoo_
+                        （佛祖保佑區塊）
+//                          _ooOoo_
 //                         o8888888o
 //                         88" . "88
 //                         (| -_- |)
@@ -21,8 +21,6 @@
 //
 //      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 //            佛祖保佑       永無 Bug
-//            測試通過       上線穩定
-
 </pre>
 
 
@@ -49,5 +47,17 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Okra77&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okra77&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Okra77&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/repos/Okra77" alt="Total Repos" />
+  <img src="https://badges.pufler.dev/commits/monthly/Okra77" alt="Monthly Commits" />
+</p>
+
+</div>
 
 
