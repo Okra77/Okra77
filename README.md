@@ -1,3 +1,32 @@
+<pre>
+（佛祖保佑區塊）
+  //                          _ooOoo_
+//                         o8888888o
+//                         88" . "88
+//                         (| -_- |)
+//                         O\  =  /O
+//                      ____/`---'\____
+//                    .'  \\|     |//  `.
+//                   /  \\|||  :  |||//  \
+//                  /  _||||| -:- |||||-  \
+//                  |   | \\\  -  /// |   |
+//                  | \_|  ''\---/''  |   |
+//                  \  .-\__  `-`  ___/-. /
+//                ___`. .'  /--.--\  `. . __
+//             ."" '<  `.___\_<|>_/___.'  >'"".
+//            | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+//            \  \ `-.   \_ __\ /__ _/   .-` /  /
+//      ======`-.____`-.___\_____/___.-`____.-'======
+//                         `=---='
+//
+//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+//            佛祖保佑       永無 Bug
+//            測試通過       上線穩定
+
+</pre>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Okra;CS+Student;Interested+in+Machine+Learning.;&center=true&size=22">
 </p>
@@ -17,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt"/>
 </p>
 
 ---
