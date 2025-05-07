@@ -1,11 +1,6 @@
-### 👋 Hi there, I'm Okra!
-I'm passionate about AI, Web development, and data science.
-
-- 🎓 I'm a CS student passionate about deep learning.
-- 🚀 Currently working on medical AI and image classification projects.  
-- 💬 Ask me about: **Python, AI, Kaggle**
-- ⚡ Fun fact: I love cats and drawing manga!
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+[Okra];AI+Researcher;Backend+Developer;Love+to+Build+Cool+Things!&center=true&size=22">
+</p>
 ---
 
 #### 👩‍💻 Programming Languages
