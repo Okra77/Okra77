@@ -28,7 +28,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Okra;CS+Student+from+Taiwan;Interested+in+Machine+Learning.;&center=true&size=22">
 </p>
 
----
 
 ## 🧰 Tech Stack
 <p align="center">
@@ -45,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
 </p>
 
----
+
 ## 📊 GitHub Stats
 
 <div align="center">
