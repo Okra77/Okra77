@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Okra;CS+Student;Interested+in+Machine+Learning.;&center=true&size=22">
 </p>
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
 
 ---
 
