@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Okra;CS+Student;Interested+in+Machine+Learning.;&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Okra;CS+Student+from+Taiwan;Interested+in+Machine+Learning.;&center=true&size=22">
 </p>
 
 ---
